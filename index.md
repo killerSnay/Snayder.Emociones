@@ -1,15 +1,5 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/killerSnay/snayder.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-##Página para el Reconocimiento de las Emociones que sientes por ella
-
-
-<div>Teachable Machine Pose Model</div> 
+<div>Sistema de Reconocimiento de Emociones por Ella</div> 
 <button type="button" onclick="init()">Start</button>
 <div><canvas id="canvas"></canvas></div>
 <div id="label-container"></div>
