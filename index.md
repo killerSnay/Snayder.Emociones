@@ -1,6 +1,8 @@
 <src="https://www.psicoactiva.com/wp-content/uploads/wordpress-popular-posts/541-featured-400x200.jpg" alt="Emociones Humanas">
+<img src="https://www.psicoactiva.com/wp-content/uploads/wordpress-popular-posts/541-featured-400x200.jpg" alt="Emociones Humanas" width="500" height="600">
 <br>
 <div>Sistema de Reconocimiento de Emociones por Ella</div> 
+El modelo utilizado fue entrenado con https://teachablemachine.withgoogle.com/ para fines académicos. Así mismo integra un chatbot utilizando 
 <button type="button" onclick="init()">Start</button>
 <div><canvas id="canvas"></canvas></div>
 <div id="label-container"></div>
