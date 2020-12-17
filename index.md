@@ -1,4 +1,5 @@
-
+<src="https://www.psicoactiva.com/wp-content/uploads/wordpress-popular-posts/541-featured-400x200.jpg" alt="Emociones Humanas">
+<br>
 <div>Sistema de Reconocimiento de Emociones por Ella</div> 
 <button type="button" onclick="init()">Start</button>
 <div><canvas id="canvas"></canvas></div>
